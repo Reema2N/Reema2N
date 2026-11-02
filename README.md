@@ -3,8 +3,6 @@
 
 **I'm Reema Nasser, a Computer Science graduate focused on AI Engineering.**
 
-Based in Saudi Arabia 🇸🇦
-
 - 🎓 B.Sc. in Computer Science from Qassim University.
 - ⚙️ I turn technical concepts into practical, end-to-end applications.
 - 🌱 Always learning, experimenting, and building.
