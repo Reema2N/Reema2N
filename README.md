@@ -32,4 +32,4 @@
 
 ### Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/reema-nassr-00275b2a9) · [Email](mailto:reema.nassr.m@gmail.com) · Portfolio (Coming Soon)
+[LinkedIn](https://www.linkedin.com/in/reema-nassr) · [Email](mailto:reema.nassr.m@gmail.com) · Portfolio (Coming Soon)
